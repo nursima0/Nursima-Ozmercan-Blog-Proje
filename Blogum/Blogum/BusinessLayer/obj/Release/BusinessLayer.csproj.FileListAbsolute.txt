@@ -1,0 +1,15 @@
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\EntityLayer.dll
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\EntityLayer.pdb
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\EntityLayer.dll.config
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\silao\OneDrive\Masaüstü\Blogum\BusinessLayer\obj\Release\BusinessLayer.pdb
